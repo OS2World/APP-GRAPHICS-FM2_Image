@@ -9,7 +9,9 @@ LICENSE
 
 COMPILE TOOLS
 ===============
-* 
+* VisualAge for C
+* RC
+* ILink
 
 AUTHORS
 ===============
